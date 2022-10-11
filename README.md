@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![mingi1123 GitHub Stats](https://server.dooboo.io/github-stats-advanced/mingi1123)
+
 <!--
 **mingi1123/mingi1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
