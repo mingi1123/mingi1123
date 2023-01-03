@@ -8,4 +8,4 @@
 ## 📊 Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingi1123&layout=compact&theme=radical)
 
-[![Velog Badge](https://img.shields.io/badge/Velog%20Blink-555263?style=flat&logoColor=white)](https://velog.io/@min_gi1123)
+[![Velog Badge](https://img.shields.io/badge/Velog%20link-555263?style=flat&logoColor=white)](https://velog.io/@min_gi1123)
