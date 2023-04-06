@@ -2,10 +2,5 @@
 ## 🥇 Baekjoon Solved.ac Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingi1123)](https://solved.ac/mingi1123/)
 
-## 🔍 My Github Gtats
-![mingi1123's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingi1123&show_icons=true&theme=tokyonight)
-
-## 📊 Used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingi1123&layout=compact&theme=radical)
-
-[![Velog Badge](https://img.shields.io/badge/Velog%20link-555263?style=flat&logoColor=white)](https://velog.io/@min_gi1123)
+## 🪐 42SEOUL
+[![mkwon's 42 stats](https://badge42.vercel.app/api/v2/clcgoru1r00060fjvnytq299u/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
