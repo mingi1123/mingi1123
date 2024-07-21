@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=253B52&height=200&section=header&text=Mingi%20Kwon&fontColor=FFFFF7&fontAlign=24&fontAlignY=40)
 
 ### ▎😺 About me
-- `MIRIDIH FE Intern` : 2024.03 ~
+- `MIRIDIH FE Intern` : 2024.03 ~ 2024.06
 - `SKT DEVOCEAN YOUNG 1st` : 2022.07 ~ 2023.01
-- `42Seoul Member` : 2023.12 ~
+- `42Seoul Member` : 2023.12 ~ 
 - `42Seoul Cadet 6th` : 2022.03 ~ 2023.12
 - `Soongsil Univ Software` : 2021.03 ~
 
