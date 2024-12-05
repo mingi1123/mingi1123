@@ -28,3 +28,24 @@
 
 ### ▎🥇 BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingi1123)](https://solved.ac/mingi1123/)
+
+---
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/mingi1123?pet-id=643485154846714712"
+    width="30%"
+    height="100"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/mingi1123?pet-id=643485029927751111"
+    width="30%"
+    height="120"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/mingi1123?pet-id=610756952858405281"
+    width="30%"
+    height="120"
+  />
+</a>
+  
